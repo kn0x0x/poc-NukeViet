@@ -16,7 +16,8 @@ fruit_poc.zip
 ```
 
 **`Fruit.php`:**  
-<img src="https://github.com/user-attachments/assets/5d1d8a27-98e4-4b79-91e7-4b95c45213bb" width="500"/>
+<img width="715" height="388" alt="Screenshot 2025-12-15 at 14 44 39" src="https://github.com/user-attachments/assets/82cb82ae-c424-42fe-b96e-b33f77494122" />
+
 
 **Upload extension:**
 
@@ -27,7 +28,8 @@ fruit_poc.zip
 4. NukeViet sẽ tự động giải nén và ghi file `Fruit.php` vào:  
    `vendor/true/punycode/src/Fruit.php`
 
-<img src="https://github.com/user-attachments/assets/26a0dcab-811e-4bf0-936a-f81097da1af6" width="400"/>
+
+<img width="948" height="783" alt="Screenshot 2025-12-15 at 15 13 21" src="https://github.com/user-attachments/assets/5c6686d1-cc31-470c-bf8d-fd9333d64dcc" />
 
 ---
 
@@ -35,7 +37,7 @@ fruit_poc.zip
 
 **Đoạn code tại** `admin/extensions/download.php`:
 
-<img src="https://github.com/user-attachments/assets/6df9d4bb-bb3e-4f76-9835-8246a0f8f9e8" width="450"/>
+<img width="553" height="292" alt="Screenshot 2025-12-15 at 15 25 16" src="https://github.com/user-attachments/assets/c851a53f-057c-40eb-989a-efbf824d94e0" />
 
 **Cơ chế:**
 
@@ -58,7 +60,8 @@ YTo0OntzOjI6ImlkIjtpOjE7czozOiJ0aWQiO2k6MTtzOjEwOiJjb21wYXRpYmxlIjthOjE6e3M6Mjoi
 ```
 
 **Request exploit (Admin access):**  
-<img src="https://github.com/user-attachments/assets/88ab44e7-847b-4baa-af24-414fef185cf2" width="500"/>
+<img width="624" height="515" alt="Screenshot 2025-12-15 at 14 45 20" src="https://github.com/user-attachments/assets/c8e4d5ac-797a-4474-b003-8c06d399e318" />
+
 
 ---
 
@@ -69,7 +72,7 @@ YTo0OntzOjI6ImlkIjtpOjE7czozOiJ0aWQiO2k6MTtzOjEwOiJjb21wYXRpYmxlIjthOjE6e3M6Mjoi
 
 Sau khi gửi payload, kiểm tra file kết quả:
 
-<img src="https://github.com/user-attachments/assets/9e5678a0-cc7e-490f-ac64-3d5de29dae41"/>
+
 <img width="1262" height="498" alt="Screenshot 2025-12-15 at 14 45 32" src="https://github.com/user-attachments/assets/267856dc-f5ca-4a5a-a221-d1c455b6e3e7" />
 
 
