@@ -69,7 +69,7 @@ YTo0OntzOjI6ImlkIjtpOjE7czozOiJ0aWQiO2k6MTtzOjEwOiJjb21wYXRpYmxlIjthOjE6e3M6Mjoi
 
 Sau khi gửi payload, kiểm tra file kết quả:
 
-<img src="https://github.com/user-attachments/assets/9e5678a0-cc7e-490f-ac64-3d5de29dae41" width="600"/>
+<img src="https://github.com/user-attachments/assets/9e5678a0-cc7e-490f-ac64-3d5de29dae41"/>
 
 ---
 
