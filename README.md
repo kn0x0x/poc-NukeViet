@@ -37,7 +37,8 @@ fruit_poc.zip
 
 **Đoạn code tại** `admin/extensions/download.php`:
 
-<img width="553" height="292" alt="Screenshot 2025-12-15 at 15 25 16" src="https://github.com/user-attachments/assets/c851a53f-057c-40eb-989a-efbf824d94e0" />
+<img width="438" height="154" alt="Screenshot 2025-12-15 at 15 51 59" src="https://github.com/user-attachments/assets/fd660272-d37e-4b62-abc0-93e01436bf6a" />
+
 
 **Cơ chế:**
 
