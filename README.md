@@ -6,7 +6,6 @@
 **Chuẩn bị gói `fruit_poc.zip` với cấu trúc:**
 ```
 fruit_poc.zip
-├── text
 ├── config.ini
 └── vendor/
     └── true/
